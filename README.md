@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 <br>
-<h3 align='center'>👏🏻 ME 👏🏻</3>
+<h3 align='center'>👏🏻 ME 👏🏻</h3>
 <p align='center'>
   <a href="https://techhan.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
