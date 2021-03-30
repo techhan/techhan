@@ -1,4 +1,4 @@
-# <div align="center">Hi there 👋 I'm hansol!</div>  
+## <div align="center" font-size="40pt;">Hi there 👋 I'm hansol!</div>  
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## <div align="center">👨‍💻 Stack 👨‍💻</div>
+### <div align="center">👨‍💻 Stack 👨‍💻</div>
 <p align='center'>Techs that I've used at least once</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 <br>
-<h2 align='center'>👏🏻 ME 👏🏻</2>
+<h3 align='center'>👏🏻 ME 👏🏻</3>
 <p align='center'>
   <a href="https://techhan.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
