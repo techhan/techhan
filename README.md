@@ -10,7 +10,7 @@
 
 <br>
 
-### <div align="center">👨🏻‍💻 Stack 👨🏻‍💻</div>
+### <div align="center" >🖥 Stack 🖥</div>
 <p align='center'>Techs that I've used at least once</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -24,6 +24,35 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
+<br>
+
+### <div align="center">👨🏻‍💻 Project 👨🏻‍💻</div>
+
+
+<p align="center">
+  <a href="https://github.com/techhan/blueSpring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=blueSpring&layout=compact"/>
+  </a>
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/techhan/SingleBungle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=SingleBungle&layout=compact"/>
+  </a>
+</p>
+
+
+
+
+
+
+ <p align="center">
+  <a href="https://github.com/techhan/blueSpring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=blueSpring"/></a>
+  <a href="https://github.com/techhan/SingleBungle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=SingleBungle&layout=compact"/></a>
+ </p>
+
+
 <br>
 <h3 align='center'>👏🏻 ME 👏🏻</h3>
 <p align='center'>
