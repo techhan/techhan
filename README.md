@@ -26,11 +26,11 @@
 </p>
 <br>
 
-### <div align="center">👨🏻‍💻 Project 👨🏻‍💻</div>
+<!-- ### <div align="center">👨🏻‍💻 Project 👨🏻‍💻</div>  <br> -->
 
 
 
-<br>
+
 <h3 align='center'>👏🏻 ME 👏🏻</h3>
 <p align='center'>
   <a href="https://techhan.github.io/portfolio/" target="_blank">
