@@ -29,29 +29,6 @@
 ### <div align="center">👨🏻‍💻 Project 👨🏻‍💻</div>
 
 
-<p align="center">
-  <a href="https://github.com/techhan/blueSpring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=blueSpring&layout=compact"/>
-  </a>
-</p>
-
-
-<p align="center">
-    <a href="https://github.com/techhan/SingleBungle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=SingleBungle&layout=compact"/>
-  </a>
-</p>
-
-
-
-
-
-
- <p align="center">
-  <a href="https://github.com/techhan/blueSpring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=blueSpring"/></a>
-  <a href="https://github.com/techhan/SingleBungle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techhan&repo=SingleBungle&layout=compact"/></a>
- </p>
-
 
 <br>
 <h3 align='center'>👏🏻 ME 👏🏻</h3>
