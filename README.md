@@ -33,8 +33,8 @@
 
 <h3 align='center'>👏🏻 ME 👏🏻</h3>
 <p align='center'>
-  <a href="https://techhan.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <a href="https://www.notion.so/hansol-9ab8fd20444f44f9818626b5a444ddb9" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="mailto:gohan9117.gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
