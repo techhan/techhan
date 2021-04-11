@@ -36,8 +36,8 @@
   <a href="https://www.notion.so/hansol-9ab8fd20444f44f9818626b5a444ddb9" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-  <a href="mailto:gohan9117.gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:it_hs@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
 </p>
 <br>
