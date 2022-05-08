@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20HanSol&fontSize=90&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi!%20I'm%20HanSol&fontSize=90&animation=fadeIn" width="100%"/>
 
 <!-- ## <div align="center" font-size="40pt;">Hi there 👋</div>  -->
 
