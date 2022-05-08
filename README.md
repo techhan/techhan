@@ -1,4 +1,4 @@
-## <div align="center" font-size="40pt;">Hi there 👋 I'm hansol!</div>  
+## <div align="center" font-size="40pt;">Hi there 👋</div>  
 
 <br>
 
