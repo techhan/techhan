@@ -36,6 +36,7 @@
 
 <h3 align='center'>👏🏻 ME 👏🏻</h3>
 <p align='center'>
+  <span> Updating.... </span><br>
   <a href="https://www.notion.so/hansol-9ab8fd20444f44f9818626b5a444ddb9" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
