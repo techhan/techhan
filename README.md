@@ -33,7 +33,7 @@
 
 
 
-
+<!--
 <h3 align='center'>👏🏻 ME 👏🏻</h3>
 <p align='center'>
   <span>old portfolio</span><br>
@@ -43,7 +43,7 @@
   <a href="mailto:it_hs@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   </a>
-</p>
+</p> -->
 <br>
 <br>
 <br>
